@@ -1,2 +1,2 @@
-# Algoritmo-RSA-Discretas
+# Algoritmo-RSA
 Criptografía con llave pública
